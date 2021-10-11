@@ -32,7 +32,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In Proceedings of the 18th Conference on Embedded Networked Sensor Systems
-publication_short: 'In [**SenSys'20**](http://sensys.acm.org/2020/)'
+publication_short: In [*SenSys'20*](http://sensys.acm.org/2020/)
 
 abstract:
 
