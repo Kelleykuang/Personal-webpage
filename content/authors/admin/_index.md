@@ -4,7 +4,7 @@ role: 1st Year Ph.D. Student
 avatar_filename: avatar.jpg
 bio: I'm currently a 1nd year Ph.D. student at CMU.
 interests:
-  - Wireless Networks
+  - Wireless Network
   - Ubiquitous Computing
 social:
   - icon: envelope
@@ -26,16 +26,11 @@ education:
     - course: PhD in Electrical and Computer Engineering (2021 - Present)
       institution: Carnegie Mellon University
       year: ""
-    - course: BEng in Computer Science
-      institution: University of Science and Technology of China (2017 - 2021)
+    - course: BEng in Computer Science (2017 - 2021)
+      institution: University of Science and Technology of China
       year: ""
 email: kuangy@cmu.edu
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I'm currently a first-year Ph.D. student in the Electrical and Computer Engineering Department at Carnegie Mellon University. advised by [Prof. Swarun Kumar](https://swarunkumar.com/). I received my bachelor's degree in Computer Science from the [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/) in 2021 with the Guomoruo Scholarship (Highest honor for USTC students).
