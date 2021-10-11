@@ -11,7 +11,7 @@ authors:
 - Panlong Yang
 - Yubo Yan
 - Hao Zhou
-- Xiang-Yang Li
+- XiangYang Li
 
 # Author notes (optional)
 author_notes:
@@ -34,7 +34,7 @@ publication_types: ["1"]
 publication: In Proceedings of the 18th Conference on Embedded Networked Sensor Systems
 publication_short: In *SenSys'20*
 
-abstract:
+abstract: In this work, we propose a new modality of acoustic motion tracking using earphones.Earphone-based tracking mitigates the constraints associated with traditional smartphone-based tracking. With novel designs and comprehensive experiments, we show earphone-based motion tracking can achieve a great flexibility and a high accuracy at the same time.
 
 # Summary. An optional shortened abstract.
 summary: In this work, we propose a new modality of acoustic motion tracking using earphones.Earphone-based tracking mitigates the constraints associated with traditional smartphone-based tracking. With novel designs and comprehensive experiments, we show earphone-based motion tracking can achieve a great flexibility and a high accuracy at the same time.
