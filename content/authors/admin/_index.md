@@ -1,7 +1,7 @@
 ---
 title: Kuang Yuan 袁旷
 role: PhD Student
-avatar_filename: photo-1.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
