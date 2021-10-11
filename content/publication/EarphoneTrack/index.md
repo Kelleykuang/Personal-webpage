@@ -32,7 +32,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In Proceedings of the 18th Conference on Embedded Networked Sensor Systems
-publication_short: In *SenSys'20*
+publication_short: In [***SenSys'20***](http://sensys.acm.org/2020/)
 
 abstract: In this work, we propose a new modality of acoustic motion tracking using earphones.Earphone-based tracking mitigates the constraints associated with traditional smartphone-based tracking. With novel designs and comprehensive experiments, we show earphone-based motion tracking can achieve a great flexibility and a high accuracy at the same time.
 
@@ -42,7 +42,7 @@ summary: In this work, we propose a new modality of acoustic motion tracking usi
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
