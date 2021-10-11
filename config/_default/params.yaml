@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: ocean
+theme: rose
 day_night: true
 font: ''
 font_size: L
@@ -60,7 +60,7 @@ address:
 main_menu:
   enable: true
   align: l
-  show_logo: true
+  show_logo: false
   show_language: false
   show_day_night: false
   show_search: true

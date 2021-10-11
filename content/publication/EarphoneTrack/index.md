@@ -11,14 +11,14 @@ authors:
 - Panlong Yang
 - Yubo Yan
 - Hao Zhou
-- XiangYang Li
+- Xiang-Yang Li
 
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2021-11-01T00:00:00Z"
+date: "2020-11-01T00:00:00Z"
 doi: "10.1145/3384419.3430730"
 
 # Schedule page publish date (NOT publication's date).

@@ -33,4 +33,4 @@ email: kuangy@cmu.edu
 superuser: true
 highlight_name: true
 ---
-I'm currently a first-year Ph.D. student in the Electrical and Computer Engineering Department at Carnegie Mellon University. advised by [Prof. Swarun Kumar](https://swarunkumar.com/). I received my bachelor's degree in Computer Science from the [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/) in 2021 with the Guomoruo Scholarship (Highest honor for USTC students).
+I'm currently a first-year Ph.D. student in the Electrical and Computer Engineering Department at Carnegie Mellon University. advised by [Prof. Swarun Kumar](https://swarunkumar.com/). I received my bachelor's degree in Computer Science from the [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/) in 2021 with the Guo Moruo Scholarship (Highest honor for USTC students).
