@@ -37,7 +37,7 @@ publication_short: In [***SenSys'20***](http://sensys.acm.org/2020/)
 abstract: In this work, we propose a new modality of acoustic motion tracking using earphones.Earphone-based tracking mitigates the constraints associated with traditional smartphone-based tracking. With novel designs and comprehensive experiments, we show earphone-based motion tracking can achieve a great flexibility and a high accuracy at the same time.
 
 # Summary. An optional shortened abstract.
-summary: In this work, we propose a new modality of acoustic motion tracking using earphones.Earphone-based tracking mitigates the constraints associated with traditional smartphone-based tracking. With novel designs and comprehensive experiments, we show earphone-based motion tracking can achieve a great flexibility and a high accuracy at the same time.
+summary: In this work, we propose a new modality of acoustic motion tracking using earphones. With novel designs and comprehensive experiments, we show earphone-based motion tracking can achieve a great flexibility and a high accuracy at the same time.
 
 tags: []
 
@@ -60,10 +60,10 @@ url_video: 'https://www.youtube.com/watch?v=OVNR4WdZKl4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-# image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#   focal_point: ""
-#   preview_only: false
+image:
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
