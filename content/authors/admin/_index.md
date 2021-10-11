@@ -1,7 +1,7 @@
 ---
 title: Kuang Yuan 袁旷
 role: 1st Year Ph.D. Student
-avatar_filename: photo-1.jpg
+avatar_filename: avatar.jpg
 bio: I'm currently a 1nd year Ph.D. student at CMU.
 interests:
   - Wireless Networks
@@ -23,11 +23,11 @@ organizations:
     url: https://www.cmu.edu/
 education:
   courses:
-    - course: PhD in Electrical and Computer Engineering
+    - course: PhD in Electrical and Computer Engineering (2021 - Present)
       institution: Carnegie Mellon University
-      year: 2021
+      year: ""
     - course: BEng in Computer Science
-      institution: University of Science and Technology of China
+      institution: University of Science and Technology of China (2017 - 2021)
       year: ""
 email: kuangy@cmu.edu
 superuser: true
