@@ -7,11 +7,7 @@ title: "EarphoneTrack: involving earphones into the ecosystem of acoustic motion
 authors:
 - Gaoshuai Cao
 - admin
-- Jie Xiong
-- Panlong Yang
-- Yubo Yan
-- Hao Zhou
-- XiangYang Li
+
 
 # Author notes (optional)
 author_notes:
