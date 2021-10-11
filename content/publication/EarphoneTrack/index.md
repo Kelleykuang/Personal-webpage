@@ -6,7 +6,7 @@ title: "EarphoneTrack: involving earphones into the ecosystem of acoustic motion
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Gaoshuai Cao
-- **Kuang Yuan**
+- admin
 
 # Author notes (optional)
 author_notes:

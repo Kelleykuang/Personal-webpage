@@ -1,5 +1,5 @@
 ---
-title: Kuang Yuan 袁旷
+title: Kuang Yuan
 role: 1st Year Ph.D. Student
 avatar_filename: avatar.jpg
 bio: I'm currently a 1nd year Ph.D. student at CMU.
