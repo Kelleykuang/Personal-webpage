@@ -1,5 +1,5 @@
 ---
-title: "EarphoneTrack: involving earphones into the ecosystem of acoustic motion tracking"
+title: "EarphoneTrack: Involving Earphones into the Ecosystem of Acoustic Motion Tracking"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -81,7 +81,7 @@ url_video: 'https://www.youtube.com/watch?v=OVNR4WdZKl4'
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -89,4 +89,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
