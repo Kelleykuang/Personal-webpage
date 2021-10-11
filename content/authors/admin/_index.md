@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 bio: I'm currently a 1nd year Ph.D. student at CMU.
 interests:
   - Wireless Network
-  - Ubiquitous Computing
+  - Mobile and Ubiquitous Computing
 social:
   - icon: envelope
     icon_pack: fas
