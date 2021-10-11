@@ -34,7 +34,7 @@ publication_types: ["1"]
 publication: In Proceedings of the 18th Conference on Embedded Networked Sensor Systems
 publication_short: 'In [**SenSys'20**](http://sensys.acm.org/2020/)'
 
-# abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract:
 
 # Summary. An optional shortened abstract.
 summary: In this work, we propose a new modality of acoustic motion tracking using earphones.Earphone-based tracking mitigates the constraints associated with traditional smartphone-based tracking. With novel designs and comprehensive experiments, we show earphone-based motion tracking can achieve a great flexibility and a high accuracy at the same time.
