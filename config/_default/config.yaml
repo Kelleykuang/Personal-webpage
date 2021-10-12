@@ -5,6 +5,8 @@
 
 title: Kuang Yuan - CMU # Website name
 baseurl: 'https://www.andrew.cmu.edu/user/kuangy/' # Website URL
+relativeURLs: true
+canonifyURLs: true
 copyright: '{year} © Kuang Yuan 袁旷, Carnegie Mellon University' # Footer text, e.g. '© {year} Me'
 
 ############################
