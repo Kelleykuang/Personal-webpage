@@ -54,7 +54,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'presentation-long-EarphoneTrack.pptx'
+url_slides: 'presentation-long-earphonetrack.pptx'
 url_source: ''
 url_video: 'https://www.youtube.com/watch?v=OVNR4WdZKl4'
 
