@@ -2,16 +2,16 @@
 title: Kuang Yuan
 role: 1st Year Ph.D. Student
 avatar_filename: avatar.jpg
-bio: I'm currently a 1nd year Ph.D. student at CMU.
+bio: I'm currently a 2nd year Ph.D. student at CMU.
 interests:
-  - Wireless Network
-  - Mobile and Ubiquitous Computing
+  - Wireless Sensing
+  - Mobile Health Care
 social:
   - icon: envelope
     icon_pack: fas
     link: mailto:kuangy@cmu.edu
-  - icon: google
-    icon_pack: fab
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=5e_9JaUAAAAJ
   - icon: linkedin
     icon_pack: fab
@@ -33,4 +33,4 @@ email: kuangy@cmu.edu
 superuser: true
 highlight_name: true
 ---
-I'm currently a first-year Ph.D. student of [WiTech Lab](https://www.witechlab.com/) in the Electrical and Computer Engineering Department at Carnegie Mellon University, advised by [Prof. Swarun Kumar](https://swarunkumar.com/). I received my bachelor's degree in Computer Science from the [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/) in 2021 with the Guo Moruo Scholarship (Highest honor for USTC students). I'm also honored to work with [Prof. Jie Xiong](https://people.cs.umass.edu/~jxiong/) at UMass Amherst during 2019-2020.
+I'm currently a 2nd-year Ph.D. student of [WiTech Lab](https://www.witechlab.com/) in the Electrical and Computer Engineering Department at Carnegie Mellon University, advised by [Prof. Swarun Kumar](https://swarunkumar.com/). I received my bachelor's degree in Computer Science from the [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/) in 2021 with the Guo Moruo Scholarship (Highest honor for USTC students). I'm also honored to work with [Prof. Jie Xiong](https://people.cs.umass.edu/~jxiong/) at UMass Amherst during 2019-2020.
