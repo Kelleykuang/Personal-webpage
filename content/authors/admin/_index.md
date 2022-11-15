@@ -1,6 +1,6 @@
 ---
 title: Kuang Yuan
-role: 1st Year Ph.D. Student
+role: 2nd Year Ph.D. Student
 avatar_filename: avatar.jpg
 bio: I'm currently a 2nd year Ph.D. student at CMU.
 interests:

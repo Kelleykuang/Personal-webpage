@@ -11,7 +11,7 @@ authors:
 - Panlong Yang
 - Yubo Yan
 - Hao Zhou
-- Xiang-Yang Li
+# - Xiang-Yang Li
 
 # Author notes (optional)
 author_notes:
@@ -45,9 +45,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Custom Link
+  url: https://dl.acm.org/doi/10.1145/3384419.3430730
 
 url_pdf: ''
 url_code: ''
