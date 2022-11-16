@@ -8,7 +8,7 @@
 theme: minimal
 day_night: true
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
@@ -23,7 +23,7 @@ twitter: ''
 email: kuangy@cmu.edu
 # phone: 888 888 88 88
 address:
-  street: Robert Mehrabian Collaborative Innovation Center (CIC), 4720 Forbes Avenue
+  street: 4720 Forbes Avenue
   city: Pittsburgh
   region: PA
   postcode: '15213'
@@ -93,7 +93,7 @@ show_related:
   page: false
   post: true
   project: true
-  publication: true
+  publication: false
   event: true
 reading_time: true
 section_pager: false
@@ -126,7 +126,7 @@ comments:
     post: true
     book: true
     project: true
-    publication: true
+    publication: false
     event: true
   disqus:
     shortname: ''

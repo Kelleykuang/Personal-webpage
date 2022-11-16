@@ -11,7 +11,7 @@ authors:
 - Panlong Yang
 - Yubo Yan
 - Hao Zhou
-# - Xiang-Yang Li
+- Xiang-Yang Li
 
 # Author notes (optional)
 author_notes:
@@ -32,12 +32,12 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In Proceedings of the 18th Conference on Embedded Networked Sensor Systems
-publication_short: In [***SenSys'20***](http://sensys.acm.org/2020/)
+publication_short: In [***ACM SenSys'20***](http://sensys.acm.org/2020/)
 
 abstract: Acoustic motion tracking is an exciting new research area with promising progress in the last few years. Due to the inherent low propagation speed in the air, acoustic signals have the unique advantage of fine sensing granularity compared to RF signals. Speakers and microphones nowadays are pervasively available in devices surrounding us, such as smartphones and voice-controlled smart speakers. Though promising, one fundamental issue hindering the adoption of acoustic-based motion tracking is that the positions of microphones and speakers inside a device are fixed, which greatly limits the flexibility of acoustic motion tracking. In this work, we propose a new modality of acoustic motion tracking using earphones. Earphone-based  tracking mitigates the constraints associated with traditional smartphone-based tracking. With novel designs and comprehensive experiments, we show earphone-based motion tracking can achieve a great flexibility and a high accuracy at the same time. We believe this is an important step towards "earable" sensing. 
 
 # Summary. An optional shortened abstract.
-summary: In this work, we propose a new modality of acoustic motion tracking using earphones. With novel designs and comprehensive experiments, we show earphone-based motion tracking can achieve a great flexibility and a high accuracy at the same time.
+summary: In this work, we propose a new modality of acoustic motion tracking using earphones (both wired and wireless). With novel designs and comprehensive experiments, we show earphone-based motion tracking can achieve a great flexibility and a high accuracy at the same time.
 
 tags: []
 
@@ -45,9 +45,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-links:
-- name: Custom Link
-  url: https://dl.acm.org/doi/10.1145/3384419.3430730
+# links:
+# - name: Custom Link
+#   url: https://dl.acm.org/doi/10.1145/3384419.3430730
 
 url_pdf: ''
 url_code: ''
