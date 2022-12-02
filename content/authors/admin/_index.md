@@ -3,7 +3,7 @@ title: Kuang Yuan
 role: 2nd Year Ph.D. Student
 avatar_filename: avatar.jpg
 bio: I'm currently a 2nd year Ph.D. student at CMU.
-Research Interests:
+interests:
   - Wireless Sensing
   - Mobile Health Care
 social:
